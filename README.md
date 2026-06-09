@@ -19,7 +19,7 @@
 
 ### 🌐 Website
 
-[![Live Demo](https://img.shields.io/badge/Launch-JARVIS_AI-00FFFF?style=for-the-badge&logo=vercel)](YOUR_VERCEL_URL)
+[![Live Demo](https://img.shields.io/badge/Launch-JARVIS_AI-00FFFF?style=for-the-badge&logo=vercel)](https://jarvis-ai-wheat-ten.vercel.app/)
 
 ---
 
@@ -175,45 +175,6 @@ Open index.html in browser
 
 ---
 
-# 👨‍💻 Developer
-
-<p align="center">
-
-<img src="https://github.com/SairajAgawane.png" width="150" style="border-radius:50%">
-
-</p>
-
-<h3 align="center">Sairaj Agawane</h3>
-
-<p align="center">
-AI • ML • IoT Developer
-</p>
-
-<p align="center">
-<a href="https://github.com/SairajAgawane">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-</p>
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SairajAgawane&show_icons=true&theme=tokyonight">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SairajAgawane&theme=tokyonight">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairajAgawane&layout=compact&theme=tokyonight">
-
-</p>
-
----
 
 # 🏆 Achievements
 
