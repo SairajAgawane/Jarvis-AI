@@ -184,16 +184,6 @@ Open index.html in browser
 
 ---
 
-# ⭐ Support
-
-If you like this project:
-
-⭐ Star this repository
-
-🍴 Fork it
-
-📢 Share it
-
 ---
 
 <p align="center">
